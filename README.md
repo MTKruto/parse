@@ -9,32 +9,32 @@ modified to work with MTKruto.
 
 ### Deno
 
-```
+```shell
 deno add @mtkruto/parse
 ```
 
 ### pnpm
 
-```
+```shell
 pnpm add @mtkruto/parse
 ```
 
 ### Yarn
 
-```
+```shell
 yarn add @mtkruto/parse
 ```
 
 ### npm
 
-```
+```shell
 npm install @mtkruto/parse
 ```
 
 ### Bun
 
-```
-deno add @mtkruto/parse
+```shell
+bun add @mtkruto/parse
 ```
 
 ## Usage
