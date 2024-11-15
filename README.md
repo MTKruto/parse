@@ -5,8 +5,6 @@ modified to work with MTKruto.
 
 ## Installation
 
-> Note: Not published yet.
-
 ### Deno
 
 ```shell
