@@ -1,5 +1,5 @@
 import { build, emptyDir } from "jsr:@deno/dnt@0.41.3";
-import { Project } from "jsr:@ts-morph/ts-morph@24.0.0";
+import { Project } from "jsr:@ts-morph/ts-morph@26.0.0";
 
 const { name, version } = JSON.parse(Deno.readTextFileSync("deno.json"));
 
