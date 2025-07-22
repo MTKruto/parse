@@ -1,6 +1,6 @@
 {
   "name": "@mtkruto/parse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "exports": "./mod.ts",
   "imports": {
     "@mtkruto/mtkruto": "jsr:@mtkruto/mtkruto@^0.67.1"
